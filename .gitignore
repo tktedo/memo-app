@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Docker
+*.db
+*.pid
+
+# Node
+node_modules/
+.next/
+.env.local
+
+# その他
+*.log
+*.sqlite3
+.idea/
+.vscode/
